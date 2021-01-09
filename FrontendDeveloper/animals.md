@@ -1,0 +1,4 @@
+🐰 Conejo
+🐶 Perro
+🐮 Vaca
+🐴 Caballo
