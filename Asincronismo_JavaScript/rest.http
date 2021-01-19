@@ -1,0 +1,16 @@
+###Peticiones
+GET https://rickandmortyapi.com/api/character/ 
+Content-Type: application/json
+
+{
+
+}
+
+
+### mostrart
+GET  https://rickandmortyapi.com/api/location/1 
+Content-Type: application/json
+
+{
+    
+}
